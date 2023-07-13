@@ -79,9 +79,6 @@ form {
   place-items: center;
 }
 
-// subscribe to Thapa Technical YouTube
-// channel for more awesome videos 😀
-
 input,.searchbar {
   padding: 1rem;
   min-width: 40rem;
@@ -109,8 +106,6 @@ button {
   cursor: pointer;
   display: inline-block;
 }
-
-/* responsive layout  */
 
 @media (max-width: 998px) {
   html {
